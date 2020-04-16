@@ -43,8 +43,8 @@ Using the song and log datasets, you'll need to create a star schema optimized f
 4. **time** - timestamps of records in **songplays** broken down into specific units
    * _start_time, hour, day, week, month, year, weekday_
 
-![alt text](https://r766469c826263xjupyterllyjhwqkl.udacity-student-workspaces.com/files/sparkify_schema2.PNG "schema")
-!(sparkify_schema2.png)
+!(./sparkify_schema2.png)
+
 ## Project Template
 In addition to the data files, the project workspace includes six files:
 
